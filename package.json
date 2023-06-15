@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "drawlight-systems/eslint-config-drawlight"
+    "url": "git+https://github.com/drawlight-systems/eslint-config-drawlight.git"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
@@ -32,5 +32,16 @@
     "typescript": {
       "optional": true
     }
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/drawlight-systems/eslint-config-drawlight/issues"
+  },
+  "homepage": "https://github.com/drawlight-systems/eslint-config-drawlight#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "https://github.com/ReySJS"
 }
